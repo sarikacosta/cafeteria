@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: center;
+}
+body{
+	font-family: times new roman;
+	background-image: https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiu9cX3to_WAhVFh5AKHZ-QBFEQjRwIBw&url=http%3A%2F%2Fentretenimento.r7.com%2Fblogs%2Fmammy-em-dobro%2Fquem-e-voce-a-cenoura-o-ovo-ou-o-cafe-auto-ajuda-20160908%2F&psig=AFQjCNFR5HWHWNUUUZgLp6Qgt6wTCuwM3w&ust=1504748441871683;
+}
+h1{
+	color: #fff;
+	font-size: 40px;
+}
+h2{
+	color: #8B8989;
+}
